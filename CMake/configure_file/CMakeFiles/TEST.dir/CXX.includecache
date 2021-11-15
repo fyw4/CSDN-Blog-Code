@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/WMshare/configure_file/build.h
+
+/mnt/hgfs/WMshare/configure_file/main.cpp
+build.h
+/mnt/hgfs/WMshare/configure_file/build.h
+iostream
+-
+

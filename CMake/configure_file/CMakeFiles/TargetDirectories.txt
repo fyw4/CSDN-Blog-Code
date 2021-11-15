@@ -1,0 +1,3 @@
+/mnt/hgfs/WMshare/configure_file/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/WMshare/configure_file/CMakeFiles/edit_cache.dir
+/mnt/hgfs/WMshare/configure_file/CMakeFiles/TEST.dir
